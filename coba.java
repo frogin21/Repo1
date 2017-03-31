@@ -1,11 +1,9 @@
-public class Main{
+public class coba{
     
     public static void main(String[] args) {
-       public void coba(){
-       System.out.println("Saya HEbat")
-       System.out.println("Test Git")
+       System.out.println("Saya HEbat");
+       System.out.println("Test Git");
        }
 
     }
     
-}
